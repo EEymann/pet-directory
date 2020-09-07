@@ -6,7 +6,7 @@
 
 ## Description
 
-_This project comes from teamtreehouse.com. In this program, I built an array of objects in a file called pets.js. This file is a directory holding multiple pieces of information about a variety of pets. Then, I wrote the program in the file called directory.js. In directory.js, I loop through the objects array held in pets.js and dynamically display it to the webpage using innerHTML. This way, the pets.js directory of pets can be easily updated with additional pets just by adding new objects within the array. _
+_This project comes from teamtreehouse.com. In this program, I built an array of objects in a file called pets.js. This file is a directory holding multiple pieces of information about a variety of pets. Then, I wrote the program in the file called directory.js. In directory.js, I loop through the objects array held in pets.js and dynamically display it to the webpage using innerHTML. This way, the pets.js directory of pets can be easily updated with additional pets just by adding new objects within the array._
 
 ## Setup/Installation Requirements
 
